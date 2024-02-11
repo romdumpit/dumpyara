@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "" # Direct url to a recovery zip
+  DUMP_URL: "https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ac/v3/H-0KiTKkTEmCBEJ68T41oA/full/update_full_base.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
