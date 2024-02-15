@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "https://cdn-ota.azureedge.net/V14.0.5.0.TLJMIXM/miui_INGRESGlobal_V14.0.5.0.TLJMIXM_99afcfec6a_13.0.zip" # Direct url to a recovery zip
+  DUMP_URL: "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-fc1e73b84890b5b60d1e8bdf4d2af44d/component-ota/24/01/12/84b893bbfcff44a7840e39bde8ada51f.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
