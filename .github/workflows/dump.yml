@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-fc1e73b84890b5b60d1e8bdf4d2af44d/component-ota/24/01/12/84b893bbfcff44a7840e39bde8ada51f.zip" # Direct url to a recovery zip
+  DUMP_URL: "https://cdn-ota.azureedge.net/OS1.0.1.0.UKOCNXM/miui_LISA_OS1.0.1.0.UKOCNXM_d2eb96aaa6_14.0.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
