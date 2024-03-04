@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "https://cdn-ota.azureedge.net/V14.0.6.0.TKCMIXM/miui_VEUXGlobal_V14.0.6.0.TKCMIXM_b4709b49ea_13.0.zip" # Direct url to a recovery zip
+  DUMP_URL: "https://pixeldrain.com/u/N23GVqwg" # Direct url to a recovery zip
 
 jobs:
   dump:
