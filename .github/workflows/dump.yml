@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "https://cdn-ota.azureedge.net/V13.0.5.0.SLOMIXM/miui_XAGAGlobal_V13.0.5.0.SLOMIXM_add9754910_12.0.zip" # Direct url to a recovery zip
+  DUMP_URL: "https://cdn-ota.azureedge.net/OS1.0.7.0.UNLMIXM/miui_DUCHAMPGlobal_OS1.0.7.0.UNLMIXM_759d6c1865_14.0.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
