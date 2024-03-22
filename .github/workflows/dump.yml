@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "https://cdn-ota.azureedge.net/OS1.0.7.0.UNLMIXM/miui_DUCHAMPGlobal_OS1.0.7.0.UNLMIXM_759d6c1865_14.0.zip" # Direct url to a recovery zip
+  DUMP_URL: "https://android.googleapis.com/packages/ota-api/package/75b467684adc6ddc1eb6fea2b30877fab5c2c920.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
