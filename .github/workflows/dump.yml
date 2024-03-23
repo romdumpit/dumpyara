@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "https://android.googleapis.com/packages/ota-api/package/75b467684adc6ddc1eb6fea2b30877fab5c2c920.zip" # Direct url to a recovery zip
+  DUMP_URL: "https://cdnorg.d.miui.com/V14.0.8.0.TLOMIXM/miui_XAGAGlobal_V14.0.8.0.TLOMIXM_6366f8b0b1_13.0.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
