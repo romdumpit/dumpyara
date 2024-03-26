@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "https://cdnorg.d.miui.com/V14.0.8.0.TLOMIXM/miui_XAGAGlobal_V14.0.8.0.TLOMIXM_6366f8b0b1_13.0.zip" # Direct url to a recovery zip
+  DUMP_URL: "https://bn.d.miui.com/V14.0.7.0.TLOCNXM/miui_XAGA_V14.0.7.0.TLOCNXM_cbde1beb4e_13.0.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
