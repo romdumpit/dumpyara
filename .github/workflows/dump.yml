@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "https://bn.d.miui.com/OS1.0.8.0.ULQMIXM/miui_PLATOGlobal_OS1.0.8.0.ULQMIXM_66cc9d612c_14.0.zip" # Direct url to a recovery zip
+  DUMP_URL: "https://android.googleapis.com/packages/ota-api/package/f0856b00a5b18a7c1c07ca6b96eca7f1ffc97a6c.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
