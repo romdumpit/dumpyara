@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "https://cdnorg.d.miui.com/OS1.0.3.0.UKOMIXM/miui_LISAGlobal_OS1.0.3.0.UKOMIXM_3a15e0e69a_14.0.zip" # Direct url to a recovery zip
+  DUMP_URL: "https://bn.d.miui.com/OS1.0.8.0.ULQMIXM/miui_PLATOGlobal_OS1.0.8.0.ULQMIXM_66cc9d612c_14.0.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
