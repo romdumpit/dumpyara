@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "https://android.googleapis.com/packages/ota-api/package/f0856b00a5b18a7c1c07ca6b96eca7f1ffc97a6c.zip" # Direct url to a recovery zip
+  DUMP_URL: "https://dl.google.com/dl/android/aosp/redfin-up1a.231105.001.b2-factory-4e5a2679.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
