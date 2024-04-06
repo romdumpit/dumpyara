@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  DUMP_URL: "https://dl.google.com/dl/android/aosp/redfin-up1a.231105.001.b2-factory-4e5a2679.zip" # Direct url to a recovery zip
+  DUMP_URL: "https://bn.d.miui.com/V14.0.3.0.TMAMIXM/miui_ISHTARGlobal_V14.0.3.0.TMAMIXM_3c0ba60c9e_13.0.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
