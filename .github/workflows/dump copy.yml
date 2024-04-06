@@ -1,9 +1,9 @@
 name: DumpTest
 
 on:
-  push:
-    branches:
-      - master
+  # push:
+  #   branches:
+  #     - master
   workflow_dispatch:
       inputs:
         DUMP_URL:
