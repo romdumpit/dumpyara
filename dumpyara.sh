@@ -248,10 +248,10 @@ if [[ -n $GIT_OAUTH_TOKEN ]]; then
     curl --silent --fail "https://raw.githubusercontent.com/$ORG/$repo/$branch/all_files.txt" 2> /dev/null && echo "Firmware already dumped!" && exit 1
     git init
     if [[ -z "$(git config --get user.email)" ]]; then
-        git config user.email giovanniricca@duck.com
+        git config user.email cabreraconte880@gmail.com
     fi
     if [[ -z "$(git config --get user.name)" ]]; then
-        git config user.name Jiovanni-bot
+        git config user.name xc112lg
     fi
     git config http.postBuffer 157286400
     curl -s -X POST -H "Authorization: token ${GIT_OAUTH_TOKEN}" -d '{ "name": "'"$repo"'" }' "https://api.github.com/orgs/${ORG}/repos" #create new repo
