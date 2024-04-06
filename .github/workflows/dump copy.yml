@@ -54,5 +54,5 @@ jobs:
             wget -O dump.zip "${{ inputs.DUMP_URL}}"
             bash dumpyara.sh dump.zip
           else
-            bash dumpyara.sh "$DUMP_URL"
+            bash dumpyara.sh "${{ inputs.DUMP_URL}}"
           fi
